@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repository for Data Scientist's Toolbox assignment
+Repository for Coursera "Data Science Specialization" course sequence
